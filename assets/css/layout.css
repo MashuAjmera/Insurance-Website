@@ -19,7 +19,7 @@ body {
 .loan_enquiry 
 {
     font-size: 20px;
-    color: #88CA5A;
+    color: #32C5E8;
     margin: 0px 0 16px;
 }
 .new-size 
@@ -41,12 +41,12 @@ body {
     background-color:#5d6166 !important;
 }
 .green-color 
-{background-color: #91c46c !important;
+{background-color: #38B6D4 !important;
 }
 .higlight 
 {
     font-size:25px;
-    color:#61A92D;
+    color:#38B6D4;
 }
 .cvupload label  
 {
@@ -68,7 +68,7 @@ body {
 .lookin 
 {
     text-align:center;
-    background:#91C46C;
+    background:#38B6D4;
     padding:5px;
     color:#fff;
     font-weight:700;
@@ -92,7 +92,7 @@ body {
    color: transparent !important;
 }
 .goog-te-gadget .goog-te-combo{
-   color: #91c46c !important;
+   color: #38B6D4 !important;
 }
  .new-btn {
     padding: 4px 60px 2px 60px !important;
@@ -101,22 +101,22 @@ body {
 }
 .point {
 	font-size:16px;	
-	color: #4D8E1D;
+	color: #38B6D4;
 	padding-bottom:20px;
 	padding-top:10px;
 	
 }
 .moto-color1 {
-  color: #91c46c;
+  color: #38B6D4;
 }
 .moto-color1_1 {
   color: #77b649;
 }
 .moto-color1_2 {
-  color: #84bd5b;
+  color: #38B6D4;
 }
 .moto-color1_3 {
-  color: #91c46c;
+  color: #38B6D4;
 }
 .moto-color1_4 {
   color: #a0cc80;
@@ -1574,7 +1574,7 @@ img.mfp-img {
   letter-spacing: 0px;
 }
 .moto-text_147 a {
-  color: #91c46c;
+  color: #38B6D4;
   text-decoration: none;
   font-weight: 600;
   font-style: normal;
@@ -1616,7 +1616,7 @@ img.mfp-img {
   letter-spacing: 0px;
 }
 .moto-text_146 a {
-  color: #91c46c;
+  color: #38B6D4;
   text-decoration: none;
   font-weight: 300;
   font-style: normal;
@@ -1667,7 +1667,7 @@ img.mfp-img {
   text-decoration: none;
   font-weight: 400;
   font-style: normal;
-  color: #91c46c;
+  color: #38B6D4;
 }
 @media (max-width: 1039px) {
   .moto-text_145 {
@@ -1709,7 +1709,7 @@ img.mfp-img {
   text-decoration: none;
   font-weight: 300;
   font-style: normal;
-  color: #91c46c;
+  color: #38B6D4;
 }
 @media (max-width: 1039px) {
   .moto-text_144 {
@@ -1921,7 +1921,7 @@ img.mfp-img {
   padding-bottom: 0px;
   padding-left: 0px;
   padding-right: 0px;
-  background-color: #91c46c;
+  background-color: #38B6D4;
   border-style: none;
   border-color: #fff;
   border-left-width: 0px;
@@ -2114,7 +2114,7 @@ img.mfp-img {
   padding-bottom: 0px;
   padding-left: 0px;
   padding-right: 0px;
-  background-color: #91c46c;
+  background-color: #38B6D4;
   border-style: none;
   border-color: #fff;
   border-left-width: 0px;
@@ -2389,7 +2389,7 @@ img.mfp-img {
   font-weight: 700;
   font-style: normal;
   font-family: arial, helvetica, sans-serif;
-  color: #91c46c;
+  color: #38B6D4;
   font-size: 30px;
   line-height: 1.2;
   letter-spacing: 0px;
@@ -2404,7 +2404,7 @@ img.mfp-img {
   text-decoration: none;
   font-weight: 700;
   font-style: normal;
-  color: #91c46c;
+  color: #38B6D4;
 }
 .moto-container_content_54d495e1 {
   margin-top: 0px;
@@ -3837,7 +3837,7 @@ img.mfp-img {
   letter-spacing: 0px;
 }
 .moto-text_normal a {
-  color: #91c46c;
+  color: #38B6D4;
   text-decoration: underline;
   font-weight: 400;
   font-style: normal;
@@ -3972,7 +3972,7 @@ img.mfp-img {
   text-decoration: none;
   font-weight: 300;
   font-style: normal;
-  color: #91c46c;
+  color: #38B6D4;
 }
 @media (max-width: 1039px) {
   .moto-text_system_3 {
@@ -4014,7 +4014,7 @@ img.mfp-img {
   text-decoration: none;
   font-weight: 300;
   font-style: normal;
-  color: #91c46c;
+  color: #38B6D4;
 }
 @media (max-width: 1039px) {
   .moto-text_system_4 {
@@ -4056,7 +4056,7 @@ img.mfp-img {
   text-decoration: none;
   font-weight: 300;
   font-style: normal;
-  color: #91c46c;
+  color: #38B6D4;
 }
 @media (max-width: 1039px) {
   .moto-text_system_5 {
@@ -4098,7 +4098,7 @@ img.mfp-img {
   text-decoration: none;
   font-weight: 400;
   font-style: normal;
-  color: #91c46c;
+  color: #38B6D4;
 }
 @media (max-width: 1039px) {
   .moto-text_system_6 {
@@ -4173,7 +4173,7 @@ img.mfp-img {
   letter-spacing: 0px;
 }
 .moto-text_system_8 a {
-  color: #91c46c;
+  color: #38B6D4;
   text-decoration: none;
   font-weight: 300;
   font-style: normal;
@@ -4308,7 +4308,7 @@ img.mfp-img {
   text-decoration: none;
   font-weight: 400;
   font-style: normal;
-  color: #91c46c;
+  color: #38B6D4;
 }
 @media (max-width: 1039px) {
   .moto-text_system_11 {
@@ -4350,7 +4350,7 @@ img.mfp-img {
   text-decoration: none;
   font-weight: 300;
   font-style: normal;
-  color: #91c46c;
+  color: #38B6D4;
 }
 @media (max-width: 1039px) {
   .moto-text_system_12 {
@@ -4377,13 +4377,13 @@ img.mfp-img {
   font-weight: 300;
   font-style: normal;
   font-family: 'Open Sans', sans-serif;
-  color: #91c46c;
+  color: #38B6D4;
   font-size: 30px;
   line-height: 1;
   letter-spacing: 0px;
 }
 .moto-text_system_13 a {
-  color: #91c46c;
+  color: #38B6D4;
   text-decoration: none;
   font-weight: 300;
   font-style: normal;
@@ -4434,7 +4434,7 @@ img.mfp-img {
   text-decoration: none;
   font-weight: 400;
   font-style: normal;
-  color: #91c46c;
+  color: #38B6D4;
 }
 @media (max-width: 1039px) {
   .moto-text_system_14 {
@@ -7366,7 +7366,7 @@ img.mfp-img {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   transform: translate(0,0);
-  color: #91c46c;
+  color: #38B6D4;
   content: '\f054';
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
@@ -7384,7 +7384,7 @@ img.mfp-img {
 }
 .moto-widget-text ul li:hover {
   color: #ffffff;
-  background-color: #91c46c;
+  background-color: #38B6D4;
 }
 .moto-widget-text ul li:hover:before {
   color: #5d6166;
@@ -7407,7 +7407,7 @@ img.mfp-img {
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  color: #91c46c;
+  color: #38B6D4;
   position: absolute;
   z-index: 0;
   top: 0;
@@ -7547,7 +7547,7 @@ img.mfp-img {
   left: 1px;
   height: 7px;
   width: calc(100% - 1px);
-  background-color: #91c46c;
+  background-color: #38B6D4;
   content: "";
 }
 .moto-widget-menu.moto-preset-default .moto-widget-menu-list > .moto-widget-menu-item:last-child > .moto-widget-menu-link {
@@ -7610,7 +7610,7 @@ img.mfp-img {
   left: 0;
   width: 0;
   height: 100%;
-  background-color: #91c46c;
+  background-color: #38B6D4;
   z-index: -1;
   content: "";
   -webkit-transition: all .3s ease;
@@ -7990,7 +7990,7 @@ padding: 12px 21px 11px 23px;
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background-color: #91c46c;
+  background-color: #38B6D4;
   content: '';
   will-change: -webkit-transform;
   will-change: transform;
@@ -8632,7 +8632,7 @@ padding: 12px 21px 11px 23px;
   -moz-osx-font-smoothing: grayscale;
   transform: translate(0,0);
   color: #ffffff;
-  background-color: #91c46c;
+  background-color: #38B6D4;
   text-align: center;
   z-index: 5;
   box-shadow: 4px 4px 8px 0 rgba(57,59,62,0.4);
@@ -8663,7 +8663,7 @@ padding: 12px 21px 11px 23px;
 .moto-widget-divider.moto-preset-3 .moto-widget-divider-line {
   border-top-width: 3px;
   border-top-style: solid;
-  border-top-color: #91c46c;
+  border-top-color: #38B6D4;
 }
 .moto-widget-image.moto-preset-2 .moto-widget-image-link:before {
   background-color: transparent;
@@ -8690,7 +8690,7 @@ padding: 12px 21px 11px 23px;
   background-color: rgba(0,0,0,0.5);
 }
 .moto-widget-button.moto-preset-default .moto-widget-button-link {
-  background-color: #91c46c;
+  background-color: #38B6D4;
 }
 .moto-widget-button.moto-preset-default .moto-widget-button-link:hover {
   background-color: #5d6166;
@@ -8721,10 +8721,10 @@ padding: 12px 21px 11px 23px;
   font-weight: 300;
   font-style: normal;
   color: #5d6166;
-  background-color: #91c46c;
+  background-color: #38B6D4;
 }
 .moto-widget-button.moto-preset-4 .moto-widget-button-link:hover {
-  color: #91c46c;
+  color: #38B6D4;
   background-color: #5d6166;
 }
 .moto-widget-button.moto-preset-4 .moto-widget-button-link .moto-widget-button-label {
@@ -8753,7 +8753,7 @@ padding: 12px 21px 11px 23px;
   color: #ffffff;
 }
 .moto-widget-social-links.moto-preset-default .moto-widget-social-links-link:hover {
-  background-color: #91c46c;
+  background-color: #38B6D4;
 }
 .moto-widget-social-links.moto-preset-2 .moto-widget-social-links-link {
   background-color: #5d6166;
@@ -8778,18 +8778,18 @@ padding: 12px 21px 11px 23px;
 }
 .moto-widget-slider.moto-preset-default .bx-controls-direction .bx-prev:hover:before,
 .moto-widget-slider.moto-preset-default .bx-controls-direction .bx-next:hover:before {
-  color: #91c46c;
+  color: #38B6D4;
 }
 .moto-widget-slider.moto-preset-default .bx-pager-link {
-  border-color: #91c46c;
+  border-color: #38B6D4;
   background-color: transparent;
 }
 .moto-widget-slider.moto-preset-default .bx-pager-link:hover {
-  background-color: #91c46c;
+  background-color: #38B6D4;
 }
 .moto-widget-slider.moto-preset-default .bx-pager-link.active {
-  border-color: #91c46c;
-  background-color: #91c46c;
+  border-color: #38B6D4;
+  background-color: #38B6D4;
 }
 .moto-widget-slider.moto-preset-2 .bx-caption {
   font-family: 'Open Sans', sans-serif;
@@ -8801,7 +8801,7 @@ padding: 12px 21px 11px 23px;
 }
 .moto-widget-slider.moto-preset-2 .bx-controls-direction .bx-prev:before,
 .moto-widget-slider.moto-preset-2 .bx-controls-direction .bx-next:before {
-  color: #91c46c;
+  color: #38B6D4;
 }
 .moto-widget-slider.moto-preset-2 .bx-controls-direction .bx-prev:hover:before,
 .moto-widget-slider.moto-preset-2 .bx-controls-direction .bx-next:hover:before {
@@ -8811,10 +8811,10 @@ padding: 12px 21px 11px 23px;
   background-color: #ffffff;
 }
 .moto-widget-slider.moto-preset-2 .bx-pager-link:hover {
-  background-color: #91c46c;
+  background-color: #38B6D4;
 }
 .moto-widget-slider.moto-preset-2 .bx-pager-link.active {
-  background-color: #91c46c;
+  background-color: #38B6D4;
 }
 .moto-widget-grid-gallery.moto-preset-default .caption {
   font-family: 'Open Sans', sans-serif;
@@ -8850,7 +8850,7 @@ padding: 12px 21px 11px 23px;
   font-weight: 400;
   font-style: normal;
   text-decoration: none;
-  color: #91c46c;
+  color: #38B6D4;
 }
 .moto-widget-grid-gallery.moto-preset-3 .moto-widget-grid-gallery-item:before {
   background-color: rgba(93,97,102,0.8);
@@ -8892,7 +8892,7 @@ padding: 12px 21px 11px 23px;
 .moto-widget-contact_form.moto-preset-default .moto-widget-contact_form-form .moto-widget-contact_form-success {
   font-style: normal;
   font-weight: 400;
-  color: #91c46c;
+  color: #38B6D4;
 }
 .moto-widget-contact_form.moto-preset-default .moto-widget-contact_form-form .moto-widget-contact_form-danger {
   font-style: normal;
@@ -8930,7 +8930,7 @@ padding: 12px 21px 11px 23px;
 .moto-widget-contact_form.moto-preset-2 .moto-widget-contact_form-form .moto-widget-contact_form-success {
   font-style: normal;
   font-weight: 400;
-  color: #91c46c;
+  color: #38B6D4;
 }
 .moto-widget-contact_form.moto-preset-2 .moto-widget-contact_form-form .moto-widget-contact_form-danger {
   font-style: normal;
@@ -8946,7 +8946,7 @@ padding: 12px 21px 11px 23px;
   background-color: transparent;
   font-style: normal;
   font-weight: 400;
-  border-color: #91c46c;
+  border-color: #38B6D4;
 }
 .moto-widget-contact_form.moto-preset-3 .moto-widget-contact_form-form .moto-widget-contact_form-field.ng-touched.ng-invalid {
   color: #5d6166;
@@ -8970,7 +8970,7 @@ padding: 12px 21px 11px 23px;
 .moto-widget-contact_form.moto-preset-3 .moto-widget-contact_form-form .moto-widget-contact_form-success {
   font-style: normal;
   font-weight: 400;
-  color: #91c46c;
+  color: #38B6D4;
 }
 .moto-widget-contact_form.moto-preset-3 .moto-widget-contact_form-form .moto-widget-contact_form-danger {
   font-style: normal;
@@ -8991,12 +8991,12 @@ padding: 12px 21px 11px 23px;
 }
 .moto-widget-menu.moto-preset-default .moto-widget-menu-list .moto-widget-menu-item .moto-widget-menu-link-level-1:hover {
   color: #ffffff;
-  background-color: #91c46c;
+  background-color: #38B6D4;
 }
 .moto-widget-menu.moto-preset-default .moto-widget-menu-list .moto-widget-menu-item .moto-widget-menu-link-level-1.moto-widget-menu-link-active {
   color: #ffffff;
   text-decoration: none;
-  background-color: #91c46c;
+  background-color: #38B6D4;
   border-color: #e9eaea;
 }
 .moto-widget-menu.moto-preset-default .moto-widget-menu-sublist {
@@ -9021,12 +9021,12 @@ padding: 12px 21px 11px 23px;
 }
 .moto-widget-menu.moto-preset-default .moto-widget-menu-toggle-btn {
   color: #ffffff;
-  background-color: #91c46c;
+  background-color: #38B6D4;
 }
 @media screen and (max-width: 767px) {
   .moto-widget-menu.moto-preset-default.moto-widget-menu-mobile-open .moto-widget-menu-toggle-btn {
     color: #ffffff;
-    background-color: #91c46c;
+    background-color: #38B6D4;
   }
   .moto-widget-menu.moto-preset-default.moto-widget-menu-mobile-open .moto-widget-menu-list {
     background-color: #ffffff;
@@ -9040,7 +9040,7 @@ padding: 12px 21px 11px 23px;
   .moto-widget-menu.moto-preset-default.moto-widget-menu-mobile-open .moto-widget-menu-list .moto-widget-menu-item .moto-widget-menu-link.moto-widget-menu-link-active {
     color: #ffffff;
     text-decoration: none;
-    background-color: #91c46c;
+    background-color: #38B6D4;
   }
   .moto-widget-menu.moto-preset-default.moto-widget-menu-mobile-open .moto-widget-menu-list .moto-widget-menu-sublist {
     background-color: #ffffff;
@@ -9051,7 +9051,7 @@ padding: 12px 21px 11px 23px;
     background-color: transparent;
   }
   .moto-widget-menu.moto-preset-default.moto-widget-menu-mobile-open .moto-widget-menu-list .moto-widget-menu-sublist .moto-widget-menu-link.moto-widget-menu-link-active {
-    color: #91c46c;
+    color: #38B6D4;
     text-decoration: none;
     background-color: transparent;
   }
@@ -9069,19 +9069,19 @@ padding: 12px 21px 11px 23px;
   color: #5d6166;
 }
 .moto-widget-menu.moto-preset-2 .moto-widget-menu-list .moto-widget-menu-item .moto-widget-menu-link-level-1:hover {
-  color: #91c46c;
+  color: #38B6D4;
 }
 .moto-widget-menu.moto-preset-2 .moto-widget-menu-list .moto-widget-menu-item .moto-widget-menu-link-level-1:hover .moto-widget-menu-link-arrow:before {
-  color: #91c46c;
+  color: #38B6D4;
 }
 .moto-widget-menu.moto-preset-2 .moto-widget-menu-list .moto-widget-menu-item .moto-widget-menu-link-level-1.moto-widget-menu-link-active {
-  color: #91c46c;
+  color: #38B6D4;
   text-decoration: none;
   background-color: transparent;
   border-color: #393b3e;
 }
 .moto-widget-menu.moto-preset-2 .moto-widget-menu-list .moto-widget-menu-item .moto-widget-menu-link-level-1.moto-widget-menu-link-active .moto-widget-menu-link-arrow:before {
-  color: #91c46c;
+  color: #38B6D4;
 }
 .moto-widget-menu.moto-preset-2 .moto-widget-menu-sublist {
   background-color: #f2f2f2;
@@ -9105,12 +9105,12 @@ padding: 12px 21px 11px 23px;
 }
 .moto-widget-menu.moto-preset-2 .moto-widget-menu-toggle-btn {
   color: #ffffff;
-  background-color: #91c46c;
+  background-color: #38B6D4;
 }
 @media screen and (max-width: 767px) {
   .moto-widget-menu.moto-preset-2.moto-widget-menu-mobile-open .moto-widget-menu-toggle-btn {
     color: #ffffff;
-    background-color: #91c46c;
+    background-color: #38B6D4;
   }
   .moto-widget-menu.moto-preset-2.moto-widget-menu-mobile-open .moto-widget-menu-list {
     background-color: #ffffff;
@@ -9124,7 +9124,7 @@ padding: 12px 21px 11px 23px;
   .moto-widget-menu.moto-preset-2.moto-widget-menu-mobile-open .moto-widget-menu-list .moto-widget-menu-item .moto-widget-menu-link.moto-widget-menu-link-active {
     color: #ffffff;
     text-decoration: none;
-    background-color: #91c46c;
+    background-color: #38B6D4;
   }
   .moto-widget-menu.moto-preset-2.moto-widget-menu-mobile-open .moto-widget-menu-list .moto-widget-menu-sublist {
     background-color: #ffffff;
@@ -9135,7 +9135,7 @@ padding: 12px 21px 11px 23px;
     background-color: transparent;
   }
   .moto-widget-menu.moto-preset-2.moto-widget-menu-mobile-open .moto-widget-menu-list .moto-widget-menu-sublist .moto-widget-menu-link.moto-widget-menu-link-active {
-    color: #91c46c;
+    color: #38B6D4;
     text-decoration: none;
     background-color: transparent;
   }
@@ -9150,12 +9150,12 @@ padding: 12px 21px 11px 23px;
 }
 .moto-widget-menu.moto-preset-3 .moto-widget-menu-list .moto-widget-menu-item .moto-widget-menu-link-level-1:hover {
   color: #ffffff;
-  background-color: #91c46c;
+  background-color: #38B6D4;
 }
 .moto-widget-menu.moto-preset-3 .moto-widget-menu-list .moto-widget-menu-item .moto-widget-menu-link-level-1.moto-widget-menu-link-active {
   color: #ffffff;
   text-decoration: none;
-  background-color: #91c46c;
+  background-color: #38B6D4;
 }
 .moto-widget-menu.moto-preset-3 .moto-widget-menu-sublist {
   background-color: #f2f2f2;
@@ -9179,12 +9179,12 @@ padding: 12px 21px 11px 23px;
 }
 .moto-widget-menu.moto-preset-3 .moto-widget-menu-toggle-btn {
   color: #ffffff;
-  background-color: #91c46c;
+  background-color: #38B6D4;
 }
 @media screen and (max-width: 767px) {
   .moto-widget-menu.moto-preset-3.moto-widget-menu-mobile-open .moto-widget-menu-toggle-btn {
     color: #ffffff;
-    background-color: #91c46c;
+    background-color: #38B6D4;
   }
   .moto-widget-menu.moto-preset-3.moto-widget-menu-mobile-open .moto-widget-menu-list {
     background-color: #ffffff;
@@ -9198,7 +9198,7 @@ padding: 12px 21px 11px 23px;
   .moto-widget-menu.moto-preset-3.moto-widget-menu-mobile-open .moto-widget-menu-list .moto-widget-menu-item .moto-widget-menu-link.moto-widget-menu-link-active {
     color: #ffffff;
     text-decoration: none;
-    background-color: #91c46c;
+    background-color: #38B6D4;
   }
   .moto-widget-menu.moto-preset-3.moto-widget-menu-mobile-open .moto-widget-menu-list .moto-widget-menu-sublist {
     background-color: #ffffff;
@@ -9209,7 +9209,7 @@ padding: 12px 21px 11px 23px;
     background-color: transparent;
   }
   .moto-widget-menu.moto-preset-3.moto-widget-menu-mobile-open .moto-widget-menu-list .moto-widget-menu-sublist .moto-widget-menu-link.moto-widget-menu-link-active {
-    color: #91c46c;
+    color: #38B6D4;
     text-decoration: none;
     background-color: transparent;
   }
@@ -9285,19 +9285,19 @@ padding: 12px 21px 11px 23px;
   height: 31px;
 }
 .moto-widget-pagination.moto-preset-default .moto-pagination-link:hover {
-  color: #91c46c;
+  color: #38B6D4;
 }
 .moto-widget-pagination.moto-preset-default .moto-pagination-link_active {
   font-style: normal;
   font-weight: 400;
-  color: #91c46c;
+  color: #38B6D4;
   border-color: transparent;
   text-decoration: none;
 }
 .moto-widget-pagination.moto-preset-default .moto-pagination-link_active:hover {
   font-style: normal;
   font-weight: 400;
-  color: #91c46c;
+  color: #38B6D4;
   border-color: transparent;
   text-decoration: none;
 }
