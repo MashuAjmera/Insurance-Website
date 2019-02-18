@@ -1,3 +1,3 @@
 # TakeInsurance
-Website for TakeInsurance
-Visit at https://takeinsurance.netlify.com/
+Website for Makeway Financial
+Visit at https://makwayfin.com/
