@@ -1,0 +1,23 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "Makway Financial",
+  "scope": "/",
+  "display": "standalone",
+  "start_url": "/",
+  "short_name": "MakWay Fianancial",
+  "theme_color": "transparent",
+  "description": "",
+  "orientation": "portrait",
+  "background_color": "transparent",
+  "related_applications": "",
+  "prefer_related_applications": "false",
+  "icons": [
+    {
+      "src": "/assets/img/favicon.ico",
+      "sizes": "16x16"
+    }
+  ],
+  "screenshots": [],
+  "generated": "true"
+}
