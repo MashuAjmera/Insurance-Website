@@ -1096,6 +1096,7 @@ async function install() {
 }
 
     </script>
+      <script src="pwabuilder-sw.js"></script>
     <script>if ("serviceWorker" in navigator) {
         if (navigator.serviceWorker.controller) {
           console.log("[PWA Builder] active service worker found, no need to register");
@@ -1111,7 +1112,6 @@ async function install() {
         }
       }
       </script>
-      <script src="pwabuilder-sw.js"></script>
 </body>
 
 </html>
